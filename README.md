@@ -44,6 +44,7 @@ Sou apaixonada por desenvolvimento de software e estou sempre em busca de novos 
 <br/>
 <br/>
 
+----
 ### 📊 Estatísticas
 
 <p>
